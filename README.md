@@ -5,6 +5,10 @@
 
 ---
 
+<img src="./housing-market-dashboard.gif" width="1000px"></img>
+
+---
+
 ## Table of Contents
 
 - [Introduction](#Introduction)
@@ -16,6 +20,7 @@
   - [Python Imports](#python-imports)
 
 ---
+
 
 ## Introduction
 
